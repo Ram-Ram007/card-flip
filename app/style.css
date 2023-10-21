@@ -98,7 +98,7 @@
 
   .backSide {
     transform: rotateY(180deg);
-    background-image: url('nature-3082832_1920.jpg');
+    background-image: url('./assets/nature-3082832_1920.jpg');
     background-position: center;
     background-size: cover;
     
